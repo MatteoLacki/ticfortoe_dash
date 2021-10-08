@@ -13,3 +13,5 @@ upload_pypi:
 	twine upload dist/*
 py:
 	ve_ticfortoe_dash/bin/ipython
+run:
+	ve_ticfortoe_dash/bin/python bin/run.py
